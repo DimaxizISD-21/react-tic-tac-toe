@@ -1,0 +1,12 @@
+.board {
+  width: 100%;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 6px 3px 6px 6px #cfd4e6;
+
+  &__wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+  }
+}

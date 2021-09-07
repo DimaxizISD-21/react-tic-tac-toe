@@ -1,0 +1,22 @@
+.square {
+  background-color: #b6b8c3;
+  border-radius: 10px;
+  aspect-ratio: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  &__active {
+    background: #e8eaf6;
+  }
+
+  &:hover {
+    background: #e8eaf6;
+    cursor: pointer;
+  }
+
+  &__img {
+    width: 100%;
+    padding: 20px;
+  }
+}

@@ -1,0 +1,37 @@
+.score {
+  width: 100%;
+  background-color: white;
+  padding: 20px;
+  box-shadow: 6px 3px 6px 6px #cfd4e6;
+  border-radius: 12px;
+  margin-bottom: 30px;
+  font-weight: bold;
+
+  &__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &__player {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &__x {
+      color: #0d6efd;
+    }
+
+    &__o {
+      color: #dc3545;
+    }
+
+    &__wins {
+      margin-top: 5px;
+    }
+  }
+
+  &__current {
+    text-align: center;
+  }
+}
