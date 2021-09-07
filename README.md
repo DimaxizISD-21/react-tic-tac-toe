@@ -1,4 +1,4 @@
-# Deployed project link (https://affectionate-heisenberg-c56979.netlify.app/)
+## Deployed project link https://affectionate-heisenberg-c56979.netlify.app/
 
 # Getting Started with Create React App
 
