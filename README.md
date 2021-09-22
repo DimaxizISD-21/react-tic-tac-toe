@@ -6,6 +6,7 @@
 - Project architecture
 - Adaptive layout
 - Ability to choose a player
+- Winner counter
 - UI logic on in-game events
 
 #### [Deployed project link](https://affectionate-heisenberg-c56979.netlify.app/)
